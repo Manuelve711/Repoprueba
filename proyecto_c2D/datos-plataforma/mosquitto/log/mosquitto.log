@@ -1,0 +1,1074 @@
+1789418722: mosquitto version 2.1.2 starting
+1789418722: Config loaded from /mosquitto/config/mosquitto.conf.
+1789418722: Bridge support available.
+1789418722: Persistence support available.
+1789418722: TLS support available.
+1789418722: TLS-PSK support available.
+1789418722: Websockets support available.
+1789418722: Opening ipv4 listen socket on port 1883.
+1789418722: Opening ipv6 listen socket on port 1883.
+1789418722: mosquitto version 2.1.2 running
+1789419079: New connection from 172.18.0.1:55372 on port 1883.
+1789419079: New client connected from 172.18.0.1:55372 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1789420522: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789422323: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789427328: mosquitto version 2.1.2 terminating
+1789427328: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789461781: mosquitto version 2.1.2 starting
+1789461781: Config loaded from /mosquitto/config/mosquitto.conf.
+1789461781: Bridge support available.
+1789461781: Persistence support available.
+1789461781: TLS support available.
+1789461781: TLS-PSK support available.
+1789461781: Websockets support available.
+1789461781: Opening ipv4 listen socket on port 1883.
+1789461781: Opening ipv6 listen socket on port 1883.
+1789461781: mosquitto version 2.1.2 running
+1789463582: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789464066: mosquitto version 2.1.2 terminating
+1789464066: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789464120: mosquitto version 2.1.2 starting
+1789464120: Config loaded from /mosquitto/config/mosquitto.conf.
+1789464120: Bridge support available.
+1789464120: Persistence support available.
+1789464120: TLS support available.
+1789464120: TLS-PSK support available.
+1789464120: Websockets support available.
+1789464120: Opening ipv4 listen socket on port 1883.
+1789464120: Opening ipv6 listen socket on port 1883.
+1789464120: mosquitto version 2.1.2 running
+1789464434: mosquitto version 2.1.2 terminating
+1789464434: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789464444: mosquitto version 2.1.2 starting
+1789464444: Config loaded from /mosquitto/config/mosquitto.conf.
+1789464444: Bridge support available.
+1789464444: Persistence support available.
+1789464444: TLS support available.
+1789464444: TLS-PSK support available.
+1789464444: Websockets support available.
+1789464444: Opening ipv4 listen socket on port 1883.
+1789464444: Opening ipv6 listen socket on port 1883.
+1789464444: mosquitto version 2.1.2 running
+1789464580: mosquitto version 2.1.2 terminating
+1789464580: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1789464595: mosquitto version 2.1.2 starting
+1789464595: Config loaded from /mosquitto/config/mosquitto.conf.
+1789464595: Bridge support available.
+1789464595: Persistence support available.
+1789464595: TLS support available.
+1789464595: TLS-PSK support available.
+1789464595: Websockets support available.
+1789464595: Opening ipv4 listen socket on port 1883.
+1789464595: Opening ipv6 listen socket on port 1883.
+1789464595: mosquitto version 2.1.2 running
+1789464632: mosquitto version 2.1.2 terminating
+1789464632: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790448481: mosquitto version 2.1.2 starting
+1790448481: Config loaded from /mosquitto/config/mosquitto.conf.
+1790448481: Bridge support available.
+1790448481: Persistence support available.
+1790448481: TLS support available.
+1790448481: TLS-PSK support available.
+1790448481: Websockets support available.
+1790448481: Opening ipv4 listen socket on port 1883.
+1790448481: Opening ipv6 listen socket on port 1883.
+1790448481: mosquitto version 2.1.2 running
+1790448603: New connection from 172.18.0.5:42766 on port 1883.
+1790448603: New client connected from 172.18.0.5:42766 as telegraf (p4, c1, k60).
+1790449364: Client telegraf [172.18.0.5:42766] disconnected.
+1790449364: mosquitto version 2.1.2 terminating
+1790449364: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790492061: mosquitto version 2.1.2 starting
+1790492061: Config loaded from /mosquitto/config/mosquitto.conf.
+1790492061: Bridge support available.
+1790492061: Persistence support available.
+1790492061: TLS support available.
+1790492061: TLS-PSK support available.
+1790492061: Websockets support available.
+1790492061: Opening ipv4 listen socket on port 1883.
+1790492061: Opening ipv6 listen socket on port 1883.
+1790492061: mosquitto version 2.1.2 running
+1790492062: New connection from 172.18.0.1:58836 on port 1883.
+1790492062: New client connected from 172.18.0.1:58836 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790492062: New connection from 172.18.0.4:52054 on port 1883.
+1790492062: New client connected from 172.18.0.4:52054 as telegraf (p4, c1, k60).
+1790492083: Client mqtt-explorer-861bbe2e [172.18.0.1:58836] disconnected.
+1790492087: New connection from 172.18.0.1:33640 on port 1883.
+1790492087: New client connected from 172.18.0.1:33640 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790493862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790495663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790497464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790498696: Client telegraf [172.18.0.4:52054] disconnected.
+1790498697: mosquitto version 2.1.2 terminating
+1790498697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790566069: mosquitto version 2.1.2 starting
+1790566069: Config loaded from /mosquitto/config/mosquitto.conf.
+1790566069: Bridge support available.
+1790566069: Persistence support available.
+1790566069: TLS support available.
+1790566069: TLS-PSK support available.
+1790566069: Websockets support available.
+1790566069: Opening ipv4 listen socket on port 1883.
+1790566069: Opening ipv6 listen socket on port 1883.
+1790566069: mosquitto version 2.1.2 running
+1790566070: New connection from 172.18.0.4:57662 on port 1883.
+1790566070: New client connected from 172.18.0.4:57662 as telegraf (p4, c1, k60).
+1790566104: New connection from 172.18.0.1:58316 on port 1883.
+1790566104: New client connected from 172.18.0.1:58316 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790566185: Client mqtt-explorer-861bbe2e [172.18.0.1:58316] disconnected.
+1790566274: New connection from 172.18.0.1:40142 on port 1883.
+1790566274: New client connected from 172.18.0.1:40142 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790566661: New connection from 172.18.0.1:59398 on port 1883.
+1790566661: Client 172.18.0.1 [172.18.0.1:59398] disconnected: connection closed by client.
+1790566783: New connection from 172.18.0.1:54118 on port 1883.
+1790566783: New client connected from 172.18.0.1:54118 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790567143: Client Gateway-Heltec-fcf61b44 [172.18.0.1:54118] disconnected: exceeded timeout.
+1790567146: New connection from 172.18.0.1:36888 on port 1883.
+1790567146: New client connected from 172.18.0.1:36888 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790567159: Client mqtt-explorer-861bbe2e [172.18.0.1:40142] disconnected.
+1790567186: New connection from 172.18.0.1:35186 on port 1883.
+1790567186: New client connected from 172.18.0.1:35186 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790567395: Client Gateway-Heltec-fcf61b44 [172.18.0.1:36888] disconnected: exceeded timeout.
+1790567434: Client telegraf [172.18.0.4:57662] disconnected.
+1790567434: mosquitto version 2.1.2 terminating
+1790567434: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790574477: mosquitto version 2.1.2 starting
+1790574477: Config loaded from /mosquitto/config/mosquitto.conf.
+1790574477: Bridge support available.
+1790574477: Persistence support available.
+1790574477: TLS support available.
+1790574477: TLS-PSK support available.
+1790574477: Websockets support available.
+1790574477: Opening ipv4 listen socket on port 1883.
+1790574477: Opening ipv6 listen socket on port 1883.
+1790574477: mosquitto version 2.1.2 running
+1790574478: New connection from 172.18.0.1:38912 on port 1883.
+1790574478: New client connected from 172.18.0.1:38912 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574489: New connection from 172.18.0.1:59258 on port 1883.
+1790574489: New client connected from 172.18.0.1:59258 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790574799: New connection from 172.18.0.1:41676 on port 1883.
+1790574799: Client mqtt-explorer-861bbe2e [172.18.0.1:38912] disconnected: session taken over.
+1790574799: New client connected from 172.18.0.1:41676 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574800: New connection from 172.18.0.1:33714 on port 1883.
+1790574800: Client mqtt-explorer-861bbe2e [172.18.0.1:41676] disconnected: session taken over.
+1790574800: New client connected from 172.18.0.1:33714 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574801: New connection from 172.18.0.1:33722 on port 1883.
+1790574801: Client mqtt-explorer-861bbe2e [172.18.0.1:33714] disconnected: session taken over.
+1790574801: New client connected from 172.18.0.1:33722 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574802: New connection from 172.18.0.1:33738 on port 1883.
+1790574802: Client mqtt-explorer-861bbe2e [172.18.0.1:33722] disconnected: session taken over.
+1790574802: New client connected from 172.18.0.1:33738 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574803: New connection from 172.18.0.1:33752 on port 1883.
+1790574803: Client mqtt-explorer-861bbe2e [172.18.0.1:33738] disconnected: session taken over.
+1790574803: New client connected from 172.18.0.1:33752 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574804: New connection from 172.18.0.1:33758 on port 1883.
+1790574804: Client mqtt-explorer-861bbe2e [172.18.0.1:33752] disconnected: session taken over.
+1790574804: New client connected from 172.18.0.1:33758 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574805: New connection from 172.18.0.1:33770 on port 1883.
+1790574805: Client mqtt-explorer-861bbe2e [172.18.0.1:33758] disconnected: session taken over.
+1790574805: New client connected from 172.18.0.1:33770 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574806: New connection from 172.18.0.1:33786 on port 1883.
+1790574806: Client mqtt-explorer-861bbe2e [172.18.0.1:33770] disconnected: session taken over.
+1790574806: New client connected from 172.18.0.1:33786 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574807: New connection from 172.18.0.1:33800 on port 1883.
+1790574807: Client mqtt-explorer-861bbe2e [172.18.0.1:33786] disconnected: session taken over.
+1790574807: New client connected from 172.18.0.1:33800 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574808: New connection from 172.18.0.1:33802 on port 1883.
+1790574808: Client mqtt-explorer-861bbe2e [172.18.0.1:33800] disconnected: session taken over.
+1790574808: New client connected from 172.18.0.1:33802 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574809: New connection from 172.18.0.1:33812 on port 1883.
+1790574809: Client mqtt-explorer-861bbe2e [172.18.0.1:33802] disconnected: session taken over.
+1790574809: New client connected from 172.18.0.1:33812 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574810: New connection from 172.18.0.1:53116 on port 1883.
+1790574810: Client mqtt-explorer-861bbe2e [172.18.0.1:33812] disconnected: session taken over.
+1790574810: New client connected from 172.18.0.1:53116 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574811: New connection from 172.18.0.1:53124 on port 1883.
+1790574811: Client mqtt-explorer-861bbe2e [172.18.0.1:53116] disconnected: session taken over.
+1790574811: New client connected from 172.18.0.1:53124 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574812: New connection from 172.18.0.1:53132 on port 1883.
+1790574812: Client mqtt-explorer-861bbe2e [172.18.0.1:53124] disconnected: session taken over.
+1790574812: New client connected from 172.18.0.1:53132 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574813: New connection from 172.18.0.1:53134 on port 1883.
+1790574813: Client mqtt-explorer-861bbe2e [172.18.0.1:53132] disconnected: session taken over.
+1790574813: New client connected from 172.18.0.1:53134 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574814: New connection from 172.18.0.1:53146 on port 1883.
+1790574814: Client mqtt-explorer-861bbe2e [172.18.0.1:53134] disconnected: session taken over.
+1790574814: New client connected from 172.18.0.1:53146 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574815: New connection from 172.18.0.1:53162 on port 1883.
+1790574815: Client mqtt-explorer-861bbe2e [172.18.0.1:53146] disconnected: session taken over.
+1790574815: New client connected from 172.18.0.1:53162 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574816: New connection from 172.18.0.1:53172 on port 1883.
+1790574816: Client mqtt-explorer-861bbe2e [172.18.0.1:53162] disconnected: session taken over.
+1790574816: New client connected from 172.18.0.1:53172 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574817: New connection from 172.18.0.1:53184 on port 1883.
+1790574817: Client mqtt-explorer-861bbe2e [172.18.0.1:53172] disconnected: session taken over.
+1790574817: New client connected from 172.18.0.1:53184 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574818: New connection from 172.18.0.1:53186 on port 1883.
+1790574818: Client mqtt-explorer-861bbe2e [172.18.0.1:53184] disconnected: session taken over.
+1790574818: New client connected from 172.18.0.1:53186 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574819: New connection from 172.18.0.1:53188 on port 1883.
+1790574819: Client mqtt-explorer-861bbe2e [172.18.0.1:53186] disconnected: session taken over.
+1790574819: New client connected from 172.18.0.1:53188 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574820: New connection from 172.18.0.1:54384 on port 1883.
+1790574820: Client mqtt-explorer-861bbe2e [172.18.0.1:53188] disconnected: session taken over.
+1790574820: New client connected from 172.18.0.1:54384 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574821: New connection from 172.18.0.1:54394 on port 1883.
+1790574821: Client mqtt-explorer-861bbe2e [172.18.0.1:54384] disconnected: session taken over.
+1790574821: New client connected from 172.18.0.1:54394 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574822: New connection from 172.18.0.1:54406 on port 1883.
+1790574822: Client mqtt-explorer-861bbe2e [172.18.0.1:54394] disconnected: session taken over.
+1790574822: New client connected from 172.18.0.1:54406 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574823: New connection from 172.18.0.1:54416 on port 1883.
+1790574823: Client mqtt-explorer-861bbe2e [172.18.0.1:54406] disconnected: session taken over.
+1790574823: New client connected from 172.18.0.1:54416 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574824: New connection from 172.18.0.1:54426 on port 1883.
+1790574824: Client mqtt-explorer-861bbe2e [172.18.0.1:54416] disconnected: session taken over.
+1790574824: New client connected from 172.18.0.1:54426 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574825: New connection from 172.18.0.1:54442 on port 1883.
+1790574825: Client mqtt-explorer-861bbe2e [172.18.0.1:54426] disconnected: session taken over.
+1790574825: New client connected from 172.18.0.1:54442 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574826: New connection from 172.18.0.1:54456 on port 1883.
+1790574826: Client mqtt-explorer-861bbe2e [172.18.0.1:54442] disconnected: session taken over.
+1790574826: New client connected from 172.18.0.1:54456 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574827: New connection from 172.18.0.1:54462 on port 1883.
+1790574827: Client mqtt-explorer-861bbe2e [172.18.0.1:54456] disconnected: session taken over.
+1790574827: New client connected from 172.18.0.1:54462 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574828: New connection from 172.18.0.1:54472 on port 1883.
+1790574828: Client mqtt-explorer-861bbe2e [172.18.0.1:54462] disconnected: session taken over.
+1790574828: New client connected from 172.18.0.1:54472 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574829: New connection from 172.18.0.1:54476 on port 1883.
+1790574829: Client mqtt-explorer-861bbe2e [172.18.0.1:54472] disconnected: session taken over.
+1790574829: New client connected from 172.18.0.1:54476 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574830: New connection from 172.18.0.1:57174 on port 1883.
+1790574830: Client mqtt-explorer-861bbe2e [172.18.0.1:54476] disconnected: session taken over.
+1790574830: New client connected from 172.18.0.1:57174 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574831: New connection from 172.18.0.1:57186 on port 1883.
+1790574831: Client mqtt-explorer-861bbe2e [172.18.0.1:57174] disconnected: session taken over.
+1790574831: New client connected from 172.18.0.1:57186 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574832: New connection from 172.18.0.1:57202 on port 1883.
+1790574832: Client mqtt-explorer-861bbe2e [172.18.0.1:57186] disconnected: session taken over.
+1790574832: New client connected from 172.18.0.1:57202 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574833: New connection from 172.18.0.1:57204 on port 1883.
+1790574833: Client mqtt-explorer-861bbe2e [172.18.0.1:57202] disconnected: session taken over.
+1790574833: New client connected from 172.18.0.1:57204 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574834: New connection from 172.18.0.1:57206 on port 1883.
+1790574834: Client mqtt-explorer-861bbe2e [172.18.0.1:57204] disconnected: session taken over.
+1790574834: New client connected from 172.18.0.1:57206 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574835: New connection from 172.18.0.1:57208 on port 1883.
+1790574835: Client mqtt-explorer-861bbe2e [172.18.0.1:57206] disconnected: session taken over.
+1790574835: New client connected from 172.18.0.1:57208 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574836: New connection from 172.18.0.1:57210 on port 1883.
+1790574836: Client mqtt-explorer-861bbe2e [172.18.0.1:57208] disconnected: session taken over.
+1790574836: New client connected from 172.18.0.1:57210 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574837: New connection from 172.18.0.1:57216 on port 1883.
+1790574837: Client mqtt-explorer-861bbe2e [172.18.0.1:57210] disconnected: session taken over.
+1790574837: New client connected from 172.18.0.1:57216 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574838: New connection from 172.18.0.1:57220 on port 1883.
+1790574838: Client mqtt-explorer-861bbe2e [172.18.0.1:57216] disconnected: session taken over.
+1790574838: New client connected from 172.18.0.1:57220 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574839: New connection from 172.18.0.1:38388 on port 1883.
+1790574839: Client mqtt-explorer-861bbe2e [172.18.0.1:57220] disconnected: session taken over.
+1790574839: New client connected from 172.18.0.1:38388 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574840: New connection from 172.18.0.1:38390 on port 1883.
+1790574840: Client mqtt-explorer-861bbe2e [172.18.0.1:38388] disconnected: session taken over.
+1790574840: New client connected from 172.18.0.1:38390 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574841: New connection from 172.18.0.1:38396 on port 1883.
+1790574841: Client mqtt-explorer-861bbe2e [172.18.0.1:38390] disconnected: session taken over.
+1790574841: New client connected from 172.18.0.1:38396 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574842: New connection from 172.18.0.1:38408 on port 1883.
+1790574842: Client mqtt-explorer-861bbe2e [172.18.0.1:38396] disconnected: session taken over.
+1790574842: New client connected from 172.18.0.1:38408 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574843: New connection from 172.18.0.1:38422 on port 1883.
+1790574843: Client mqtt-explorer-861bbe2e [172.18.0.1:38408] disconnected: session taken over.
+1790574843: New client connected from 172.18.0.1:38422 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574844: New connection from 172.18.0.1:38436 on port 1883.
+1790574844: Client mqtt-explorer-861bbe2e [172.18.0.1:38422] disconnected: session taken over.
+1790574844: New client connected from 172.18.0.1:38436 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574845: New connection from 172.18.0.1:38444 on port 1883.
+1790574845: Client mqtt-explorer-861bbe2e [172.18.0.1:38436] disconnected: session taken over.
+1790574845: New client connected from 172.18.0.1:38444 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574847: New connection from 172.18.0.1:38458 on port 1883.
+1790574847: Client mqtt-explorer-861bbe2e [172.18.0.1:38444] disconnected: session taken over.
+1790574847: New client connected from 172.18.0.1:38458 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574848: New connection from 172.18.0.1:38470 on port 1883.
+1790574848: Client mqtt-explorer-861bbe2e [172.18.0.1:38458] disconnected: session taken over.
+1790574848: New client connected from 172.18.0.1:38470 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574849: New connection from 172.18.0.1:38476 on port 1883.
+1790574849: Client mqtt-explorer-861bbe2e [172.18.0.1:38470] disconnected: session taken over.
+1790574849: New client connected from 172.18.0.1:38476 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574850: New connection from 172.18.0.1:36830 on port 1883.
+1790574850: Client mqtt-explorer-861bbe2e [172.18.0.1:38476] disconnected: session taken over.
+1790574850: New client connected from 172.18.0.1:36830 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574851: New connection from 172.18.0.1:36836 on port 1883.
+1790574851: Client mqtt-explorer-861bbe2e [172.18.0.1:36830] disconnected: session taken over.
+1790574851: New client connected from 172.18.0.1:36836 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574852: New connection from 172.18.0.1:36838 on port 1883.
+1790574852: Client mqtt-explorer-861bbe2e [172.18.0.1:36836] disconnected: session taken over.
+1790574852: New client connected from 172.18.0.1:36838 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574853: New connection from 172.18.0.1:36850 on port 1883.
+1790574853: Client mqtt-explorer-861bbe2e [172.18.0.1:36838] disconnected: session taken over.
+1790574853: New client connected from 172.18.0.1:36850 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574854: New connection from 172.18.0.1:36858 on port 1883.
+1790574854: Client mqtt-explorer-861bbe2e [172.18.0.1:36850] disconnected: session taken over.
+1790574854: New client connected from 172.18.0.1:36858 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574855: New connection from 172.18.0.1:36870 on port 1883.
+1790574855: Client mqtt-explorer-861bbe2e [172.18.0.1:36858] disconnected: session taken over.
+1790574855: New client connected from 172.18.0.1:36870 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574856: New connection from 172.18.0.1:36878 on port 1883.
+1790574856: Client mqtt-explorer-861bbe2e [172.18.0.1:36870] disconnected: session taken over.
+1790574856: New client connected from 172.18.0.1:36878 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574857: New connection from 172.18.0.1:36884 on port 1883.
+1790574857: Client mqtt-explorer-861bbe2e [172.18.0.1:36878] disconnected: session taken over.
+1790574857: New client connected from 172.18.0.1:36884 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574858: New connection from 172.18.0.1:36888 on port 1883.
+1790574858: Client mqtt-explorer-861bbe2e [172.18.0.1:36884] disconnected: session taken over.
+1790574858: New client connected from 172.18.0.1:36888 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574859: New connection from 172.18.0.1:36894 on port 1883.
+1790574859: Client mqtt-explorer-861bbe2e [172.18.0.1:36888] disconnected: session taken over.
+1790574859: New client connected from 172.18.0.1:36894 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574860: New connection from 172.18.0.1:50880 on port 1883.
+1790574860: Client mqtt-explorer-861bbe2e [172.18.0.1:36894] disconnected: session taken over.
+1790574860: New client connected from 172.18.0.1:50880 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574861: New connection from 172.18.0.1:50892 on port 1883.
+1790574861: Client mqtt-explorer-861bbe2e [172.18.0.1:50880] disconnected: session taken over.
+1790574861: New client connected from 172.18.0.1:50892 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574862: New connection from 172.18.0.1:50900 on port 1883.
+1790574862: Client mqtt-explorer-861bbe2e [172.18.0.1:50892] disconnected: session taken over.
+1790574862: New client connected from 172.18.0.1:50900 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574863: New connection from 172.18.0.1:50908 on port 1883.
+1790574863: Client mqtt-explorer-861bbe2e [172.18.0.1:50900] disconnected: session taken over.
+1790574863: New client connected from 172.18.0.1:50908 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574864: New connection from 172.18.0.1:50922 on port 1883.
+1790574864: Client mqtt-explorer-861bbe2e [172.18.0.1:50908] disconnected: session taken over.
+1790574864: New client connected from 172.18.0.1:50922 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574865: New connection from 172.18.0.1:50932 on port 1883.
+1790574865: Client mqtt-explorer-861bbe2e [172.18.0.1:50922] disconnected: session taken over.
+1790574865: New client connected from 172.18.0.1:50932 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574866: New connection from 172.18.0.1:50942 on port 1883.
+1790574866: Client mqtt-explorer-861bbe2e [172.18.0.1:50932] disconnected: session taken over.
+1790574866: New client connected from 172.18.0.1:50942 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574867: New connection from 172.18.0.1:50948 on port 1883.
+1790574867: Client mqtt-explorer-861bbe2e [172.18.0.1:50942] disconnected: session taken over.
+1790574867: New client connected from 172.18.0.1:50948 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574868: New connection from 172.18.0.1:50954 on port 1883.
+1790574868: Client mqtt-explorer-861bbe2e [172.18.0.1:50948] disconnected: session taken over.
+1790574868: New client connected from 172.18.0.1:50954 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574869: New connection from 172.18.0.1:50964 on port 1883.
+1790574869: Client mqtt-explorer-861bbe2e [172.18.0.1:50954] disconnected: session taken over.
+1790574869: New client connected from 172.18.0.1:50964 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574870: New connection from 172.18.0.1:37636 on port 1883.
+1790574870: Client mqtt-explorer-861bbe2e [172.18.0.1:50964] disconnected: session taken over.
+1790574870: New client connected from 172.18.0.1:37636 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574871: New connection from 172.18.0.1:37650 on port 1883.
+1790574871: Client mqtt-explorer-861bbe2e [172.18.0.1:37636] disconnected: session taken over.
+1790574871: New client connected from 172.18.0.1:37650 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574872: New connection from 172.18.0.1:37652 on port 1883.
+1790574872: Client mqtt-explorer-861bbe2e [172.18.0.1:37650] disconnected: session taken over.
+1790574872: New client connected from 172.18.0.1:37652 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574873: New connection from 172.18.0.1:37666 on port 1883.
+1790574873: Client mqtt-explorer-861bbe2e [172.18.0.1:37652] disconnected: session taken over.
+1790574873: New client connected from 172.18.0.1:37666 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574874: New connection from 172.18.0.1:37680 on port 1883.
+1790574874: Client mqtt-explorer-861bbe2e [172.18.0.1:37666] disconnected: session taken over.
+1790574874: New client connected from 172.18.0.1:37680 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574875: New connection from 172.18.0.1:37696 on port 1883.
+1790574875: Client mqtt-explorer-861bbe2e [172.18.0.1:37680] disconnected: session taken over.
+1790574875: New client connected from 172.18.0.1:37696 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574876: New connection from 172.18.0.1:37706 on port 1883.
+1790574876: Client mqtt-explorer-861bbe2e [172.18.0.1:37696] disconnected: session taken over.
+1790574876: New client connected from 172.18.0.1:37706 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574877: New connection from 172.18.0.1:37716 on port 1883.
+1790574877: Client mqtt-explorer-861bbe2e [172.18.0.1:37706] disconnected: session taken over.
+1790574877: New client connected from 172.18.0.1:37716 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574878: New connection from 172.18.0.1:37726 on port 1883.
+1790574878: Client mqtt-explorer-861bbe2e [172.18.0.1:37716] disconnected: session taken over.
+1790574878: New client connected from 172.18.0.1:37726 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574879: New connection from 172.18.0.1:37732 on port 1883.
+1790574879: Client mqtt-explorer-861bbe2e [172.18.0.1:37726] disconnected: session taken over.
+1790574879: New client connected from 172.18.0.1:37732 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574880: New connection from 172.18.0.1:42508 on port 1883.
+1790574880: Client mqtt-explorer-861bbe2e [172.18.0.1:37732] disconnected: session taken over.
+1790574880: New client connected from 172.18.0.1:42508 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574881: New connection from 172.18.0.1:42522 on port 1883.
+1790574881: Client mqtt-explorer-861bbe2e [172.18.0.1:42508] disconnected: session taken over.
+1790574881: New client connected from 172.18.0.1:42522 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574882: New connection from 172.18.0.1:42530 on port 1883.
+1790574882: Client mqtt-explorer-861bbe2e [172.18.0.1:42522] disconnected: session taken over.
+1790574882: New client connected from 172.18.0.1:42530 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574883: New connection from 172.18.0.1:42542 on port 1883.
+1790574883: Client mqtt-explorer-861bbe2e [172.18.0.1:42530] disconnected: session taken over.
+1790574883: New client connected from 172.18.0.1:42542 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574884: New connection from 172.18.0.1:42550 on port 1883.
+1790574884: Client mqtt-explorer-861bbe2e [172.18.0.1:42542] disconnected: session taken over.
+1790574884: New client connected from 172.18.0.1:42550 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574885: New connection from 172.18.0.1:42552 on port 1883.
+1790574885: Client mqtt-explorer-861bbe2e [172.18.0.1:42550] disconnected: session taken over.
+1790574885: New client connected from 172.18.0.1:42552 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574886: New connection from 172.18.0.1:42558 on port 1883.
+1790574886: Client mqtt-explorer-861bbe2e [172.18.0.1:42552] disconnected: session taken over.
+1790574886: New client connected from 172.18.0.1:42558 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574887: New connection from 172.18.0.1:42562 on port 1883.
+1790574887: Client mqtt-explorer-861bbe2e [172.18.0.1:42558] disconnected: session taken over.
+1790574887: New client connected from 172.18.0.1:42562 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574888: New connection from 172.18.0.1:42564 on port 1883.
+1790574888: Client mqtt-explorer-861bbe2e [172.18.0.1:42562] disconnected: session taken over.
+1790574888: New client connected from 172.18.0.1:42564 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574889: New connection from 172.18.0.1:42576 on port 1883.
+1790574889: Client mqtt-explorer-861bbe2e [172.18.0.1:42564] disconnected: session taken over.
+1790574889: New client connected from 172.18.0.1:42576 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574890: New connection from 172.18.0.1:59772 on port 1883.
+1790574890: Client mqtt-explorer-861bbe2e [172.18.0.1:42576] disconnected: session taken over.
+1790574890: New client connected from 172.18.0.1:59772 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574891: New connection from 172.18.0.1:59778 on port 1883.
+1790574891: Client mqtt-explorer-861bbe2e [172.18.0.1:59772] disconnected: session taken over.
+1790574891: New client connected from 172.18.0.1:59778 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574892: New connection from 172.18.0.1:59792 on port 1883.
+1790574892: Client mqtt-explorer-861bbe2e [172.18.0.1:59778] disconnected: session taken over.
+1790574892: New client connected from 172.18.0.1:59792 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574893: New connection from 172.18.0.1:59802 on port 1883.
+1790574893: Client mqtt-explorer-861bbe2e [172.18.0.1:59792] disconnected: session taken over.
+1790574893: New client connected from 172.18.0.1:59802 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574894: New connection from 172.18.0.1:59816 on port 1883.
+1790574894: Client mqtt-explorer-861bbe2e [172.18.0.1:59802] disconnected: session taken over.
+1790574894: New client connected from 172.18.0.1:59816 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574895: New connection from 172.18.0.1:59828 on port 1883.
+1790574895: Client mqtt-explorer-861bbe2e [172.18.0.1:59816] disconnected: session taken over.
+1790574895: New client connected from 172.18.0.1:59828 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574896: New connection from 172.18.0.1:59838 on port 1883.
+1790574896: Client mqtt-explorer-861bbe2e [172.18.0.1:59828] disconnected: session taken over.
+1790574896: New client connected from 172.18.0.1:59838 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574897: New connection from 172.18.0.1:59840 on port 1883.
+1790574897: Client mqtt-explorer-861bbe2e [172.18.0.1:59838] disconnected: session taken over.
+1790574897: New client connected from 172.18.0.1:59840 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574898: New connection from 172.18.0.1:59856 on port 1883.
+1790574898: Client mqtt-explorer-861bbe2e [172.18.0.1:59840] disconnected: session taken over.
+1790574898: New client connected from 172.18.0.1:59856 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574899: New connection from 172.18.0.1:59860 on port 1883.
+1790574899: Client mqtt-explorer-861bbe2e [172.18.0.1:59856] disconnected: session taken over.
+1790574899: New client connected from 172.18.0.1:59860 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574900: New connection from 172.18.0.1:43868 on port 1883.
+1790574900: Client mqtt-explorer-861bbe2e [172.18.0.1:59860] disconnected: session taken over.
+1790574900: New client connected from 172.18.0.1:43868 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574901: New connection from 172.18.0.1:43874 on port 1883.
+1790574901: Client mqtt-explorer-861bbe2e [172.18.0.1:43868] disconnected: session taken over.
+1790574901: New client connected from 172.18.0.1:43874 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574902: New connection from 172.18.0.1:43884 on port 1883.
+1790574902: Client mqtt-explorer-861bbe2e [172.18.0.1:43874] disconnected: session taken over.
+1790574902: New client connected from 172.18.0.1:43884 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574903: New connection from 172.18.0.1:43892 on port 1883.
+1790574903: Client mqtt-explorer-861bbe2e [172.18.0.1:43884] disconnected: session taken over.
+1790574903: New client connected from 172.18.0.1:43892 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574904: New connection from 172.18.0.1:43908 on port 1883.
+1790574904: Client mqtt-explorer-861bbe2e [172.18.0.1:43892] disconnected: session taken over.
+1790574904: New client connected from 172.18.0.1:43908 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574905: New connection from 172.18.0.1:43912 on port 1883.
+1790574905: Client mqtt-explorer-861bbe2e [172.18.0.1:43908] disconnected: session taken over.
+1790574905: New client connected from 172.18.0.1:43912 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574906: New connection from 172.18.0.1:43918 on port 1883.
+1790574906: Client mqtt-explorer-861bbe2e [172.18.0.1:43912] disconnected: session taken over.
+1790574906: New client connected from 172.18.0.1:43918 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574907: New connection from 172.18.0.1:43922 on port 1883.
+1790574907: Client mqtt-explorer-861bbe2e [172.18.0.1:43918] disconnected: session taken over.
+1790574907: New client connected from 172.18.0.1:43922 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574908: New connection from 172.18.0.1:43934 on port 1883.
+1790574908: Client mqtt-explorer-861bbe2e [172.18.0.1:43922] disconnected: session taken over.
+1790574908: New client connected from 172.18.0.1:43934 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574909: New connection from 172.18.0.1:55968 on port 1883.
+1790574909: Client mqtt-explorer-861bbe2e [172.18.0.1:43934] disconnected: session taken over.
+1790574909: New client connected from 172.18.0.1:55968 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574910: New connection from 172.18.0.1:55978 on port 1883.
+1790574910: Client mqtt-explorer-861bbe2e [172.18.0.1:55968] disconnected: session taken over.
+1790574910: New client connected from 172.18.0.1:55978 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574911: New connection from 172.18.0.1:55992 on port 1883.
+1790574911: Client mqtt-explorer-861bbe2e [172.18.0.1:55978] disconnected: session taken over.
+1790574911: New client connected from 172.18.0.1:55992 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574912: New connection from 172.18.0.1:56004 on port 1883.
+1790574912: Client mqtt-explorer-861bbe2e [172.18.0.1:55992] disconnected: session taken over.
+1790574912: New client connected from 172.18.0.1:56004 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574914: New connection from 172.18.0.1:56010 on port 1883.
+1790574914: Client mqtt-explorer-861bbe2e [172.18.0.1:56004] disconnected: session taken over.
+1790574914: New client connected from 172.18.0.1:56010 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574915: New connection from 172.18.0.1:56022 on port 1883.
+1790574915: Client mqtt-explorer-861bbe2e [172.18.0.1:56010] disconnected: session taken over.
+1790574915: New client connected from 172.18.0.1:56022 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574916: New connection from 172.18.0.1:56024 on port 1883.
+1790574916: Client mqtt-explorer-861bbe2e [172.18.0.1:56022] disconnected: session taken over.
+1790574916: New client connected from 172.18.0.1:56024 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574917: New connection from 172.18.0.1:56030 on port 1883.
+1790574917: Client mqtt-explorer-861bbe2e [172.18.0.1:56024] disconnected: session taken over.
+1790574917: New client connected from 172.18.0.1:56030 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574918: New connection from 172.18.0.1:56036 on port 1883.
+1790574918: Client mqtt-explorer-861bbe2e [172.18.0.1:56030] disconnected: session taken over.
+1790574918: New client connected from 172.18.0.1:56036 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574919: New connection from 172.18.0.1:56042 on port 1883.
+1790574919: Client mqtt-explorer-861bbe2e [172.18.0.1:56036] disconnected: session taken over.
+1790574919: New client connected from 172.18.0.1:56042 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574920: New connection from 172.18.0.1:60098 on port 1883.
+1790574920: Client mqtt-explorer-861bbe2e [172.18.0.1:56042] disconnected: session taken over.
+1790574920: New client connected from 172.18.0.1:60098 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574921: New connection from 172.18.0.1:60114 on port 1883.
+1790574921: Client mqtt-explorer-861bbe2e [172.18.0.1:60098] disconnected: session taken over.
+1790574921: New client connected from 172.18.0.1:60114 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574922: New connection from 172.18.0.1:60122 on port 1883.
+1790574922: Client mqtt-explorer-861bbe2e [172.18.0.1:60114] disconnected: session taken over.
+1790574922: New client connected from 172.18.0.1:60122 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574923: New connection from 172.18.0.1:60136 on port 1883.
+1790574923: Client mqtt-explorer-861bbe2e [172.18.0.1:60122] disconnected: session taken over.
+1790574923: New client connected from 172.18.0.1:60136 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574924: New connection from 172.18.0.1:60148 on port 1883.
+1790574924: Client mqtt-explorer-861bbe2e [172.18.0.1:60136] disconnected: session taken over.
+1790574924: New client connected from 172.18.0.1:60148 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574925: New connection from 172.18.0.1:60154 on port 1883.
+1790574925: Client mqtt-explorer-861bbe2e [172.18.0.1:60148] disconnected: session taken over.
+1790574925: New client connected from 172.18.0.1:60154 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574926: New connection from 172.18.0.1:60168 on port 1883.
+1790574926: Client mqtt-explorer-861bbe2e [172.18.0.1:60154] disconnected: session taken over.
+1790574926: New client connected from 172.18.0.1:60168 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574927: New connection from 172.18.0.1:60172 on port 1883.
+1790574927: Client mqtt-explorer-861bbe2e [172.18.0.1:60168] disconnected: session taken over.
+1790574927: New client connected from 172.18.0.1:60172 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574928: New connection from 172.18.0.1:60184 on port 1883.
+1790574928: Client mqtt-explorer-861bbe2e [172.18.0.1:60172] disconnected: session taken over.
+1790574928: New client connected from 172.18.0.1:60184 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574929: New connection from 172.18.0.1:60192 on port 1883.
+1790574929: Client mqtt-explorer-861bbe2e [172.18.0.1:60184] disconnected: session taken over.
+1790574929: New client connected from 172.18.0.1:60192 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574930: New connection from 172.18.0.1:54558 on port 1883.
+1790574930: Client mqtt-explorer-861bbe2e [172.18.0.1:60192] disconnected: session taken over.
+1790574930: New client connected from 172.18.0.1:54558 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574931: New connection from 172.18.0.1:54562 on port 1883.
+1790574931: Client mqtt-explorer-861bbe2e [172.18.0.1:54558] disconnected: session taken over.
+1790574931: New client connected from 172.18.0.1:54562 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574932: New connection from 172.18.0.1:54568 on port 1883.
+1790574932: Client mqtt-explorer-861bbe2e [172.18.0.1:54562] disconnected: session taken over.
+1790574932: New client connected from 172.18.0.1:54568 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574933: New connection from 172.18.0.1:54582 on port 1883.
+1790574933: Client mqtt-explorer-861bbe2e [172.18.0.1:54568] disconnected: session taken over.
+1790574933: New client connected from 172.18.0.1:54582 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574934: New connection from 172.18.0.1:54586 on port 1883.
+1790574934: Client mqtt-explorer-861bbe2e [172.18.0.1:54582] disconnected: session taken over.
+1790574934: New client connected from 172.18.0.1:54586 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574935: New connection from 172.18.0.1:54592 on port 1883.
+1790574935: Client mqtt-explorer-861bbe2e [172.18.0.1:54586] disconnected: session taken over.
+1790574935: New client connected from 172.18.0.1:54592 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574936: New connection from 172.18.0.1:54608 on port 1883.
+1790574936: Client mqtt-explorer-861bbe2e [172.18.0.1:54592] disconnected: session taken over.
+1790574936: New client connected from 172.18.0.1:54608 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574937: New connection from 172.18.0.1:54624 on port 1883.
+1790574937: Client mqtt-explorer-861bbe2e [172.18.0.1:54608] disconnected: session taken over.
+1790574937: New client connected from 172.18.0.1:54624 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574938: New connection from 172.18.0.1:54628 on port 1883.
+1790574938: Client mqtt-explorer-861bbe2e [172.18.0.1:54624] disconnected: session taken over.
+1790574938: New client connected from 172.18.0.1:54628 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574939: New connection from 172.18.0.1:54638 on port 1883.
+1790574939: Client mqtt-explorer-861bbe2e [172.18.0.1:54628] disconnected: session taken over.
+1790574939: New client connected from 172.18.0.1:54638 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574940: New connection from 172.18.0.1:42010 on port 1883.
+1790574940: Client mqtt-explorer-861bbe2e [172.18.0.1:54638] disconnected: session taken over.
+1790574940: New client connected from 172.18.0.1:42010 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574941: New connection from 172.18.0.1:42018 on port 1883.
+1790574941: Client mqtt-explorer-861bbe2e [172.18.0.1:42010] disconnected: session taken over.
+1790574941: New client connected from 172.18.0.1:42018 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574942: New connection from 172.18.0.1:42032 on port 1883.
+1790574942: Client mqtt-explorer-861bbe2e [172.18.0.1:42018] disconnected: session taken over.
+1790574942: New client connected from 172.18.0.1:42032 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574943: New connection from 172.18.0.1:42048 on port 1883.
+1790574943: Client mqtt-explorer-861bbe2e [172.18.0.1:42032] disconnected: session taken over.
+1790574943: New client connected from 172.18.0.1:42048 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574944: New connection from 172.18.0.1:42056 on port 1883.
+1790574944: Client mqtt-explorer-861bbe2e [172.18.0.1:42048] disconnected: session taken over.
+1790574944: New client connected from 172.18.0.1:42056 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574945: New connection from 172.18.0.1:42064 on port 1883.
+1790574945: Client mqtt-explorer-861bbe2e [172.18.0.1:42056] disconnected: session taken over.
+1790574945: New client connected from 172.18.0.1:42064 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574946: New connection from 172.18.0.1:42080 on port 1883.
+1790574946: Client mqtt-explorer-861bbe2e [172.18.0.1:42064] disconnected: session taken over.
+1790574946: New client connected from 172.18.0.1:42080 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574947: New connection from 172.18.0.1:42086 on port 1883.
+1790574947: Client mqtt-explorer-861bbe2e [172.18.0.1:42080] disconnected: session taken over.
+1790574947: New client connected from 172.18.0.1:42086 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574948: New connection from 172.18.0.1:42096 on port 1883.
+1790574948: Client mqtt-explorer-861bbe2e [172.18.0.1:42086] disconnected: session taken over.
+1790574948: New client connected from 172.18.0.1:42096 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574949: New connection from 172.18.0.1:42110 on port 1883.
+1790574949: Client mqtt-explorer-861bbe2e [172.18.0.1:42096] disconnected: session taken over.
+1790574949: New client connected from 172.18.0.1:42110 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574950: New connection from 172.18.0.1:46680 on port 1883.
+1790574950: Client mqtt-explorer-861bbe2e [172.18.0.1:42110] disconnected: session taken over.
+1790574950: New client connected from 172.18.0.1:46680 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574951: New connection from 172.18.0.1:46690 on port 1883.
+1790574951: Client mqtt-explorer-861bbe2e [172.18.0.1:46680] disconnected: session taken over.
+1790574951: New client connected from 172.18.0.1:46690 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574952: New connection from 172.18.0.1:46698 on port 1883.
+1790574952: Client mqtt-explorer-861bbe2e [172.18.0.1:46690] disconnected: session taken over.
+1790574952: New client connected from 172.18.0.1:46698 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574953: New connection from 172.18.0.1:46710 on port 1883.
+1790574953: Client mqtt-explorer-861bbe2e [172.18.0.1:46698] disconnected: session taken over.
+1790574953: New client connected from 172.18.0.1:46710 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574954: New connection from 172.18.0.1:46716 on port 1883.
+1790574954: Client mqtt-explorer-861bbe2e [172.18.0.1:46710] disconnected: session taken over.
+1790574954: New client connected from 172.18.0.1:46716 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574955: New connection from 172.18.0.1:46728 on port 1883.
+1790574955: Client mqtt-explorer-861bbe2e [172.18.0.1:46716] disconnected: session taken over.
+1790574955: New client connected from 172.18.0.1:46728 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574956: New connection from 172.18.0.1:46742 on port 1883.
+1790574956: Client mqtt-explorer-861bbe2e [172.18.0.1:46728] disconnected: session taken over.
+1790574956: New client connected from 172.18.0.1:46742 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574957: New connection from 172.18.0.1:46744 on port 1883.
+1790574957: Client mqtt-explorer-861bbe2e [172.18.0.1:46742] disconnected: session taken over.
+1790574957: New client connected from 172.18.0.1:46744 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574958: New connection from 172.18.0.1:46748 on port 1883.
+1790574958: Client mqtt-explorer-861bbe2e [172.18.0.1:46744] disconnected: session taken over.
+1790574958: New client connected from 172.18.0.1:46748 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574959: New connection from 172.18.0.1:46762 on port 1883.
+1790574959: Client mqtt-explorer-861bbe2e [172.18.0.1:46748] disconnected: session taken over.
+1790574959: New client connected from 172.18.0.1:46762 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574960: New connection from 172.18.0.1:57750 on port 1883.
+1790574960: Client mqtt-explorer-861bbe2e [172.18.0.1:46762] disconnected: session taken over.
+1790574960: New client connected from 172.18.0.1:57750 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574961: New connection from 172.18.0.1:57754 on port 1883.
+1790574961: Client mqtt-explorer-861bbe2e [172.18.0.1:57750] disconnected: session taken over.
+1790574961: New client connected from 172.18.0.1:57754 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574962: New connection from 172.18.0.1:57766 on port 1883.
+1790574962: Client mqtt-explorer-861bbe2e [172.18.0.1:57754] disconnected: session taken over.
+1790574962: New client connected from 172.18.0.1:57766 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574963: New connection from 172.18.0.1:57770 on port 1883.
+1790574963: Client mqtt-explorer-861bbe2e [172.18.0.1:57766] disconnected: session taken over.
+1790574963: New client connected from 172.18.0.1:57770 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574964: New connection from 172.18.0.1:57772 on port 1883.
+1790574964: Client mqtt-explorer-861bbe2e [172.18.0.1:57770] disconnected: session taken over.
+1790574964: New client connected from 172.18.0.1:57772 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574965: New connection from 172.18.0.1:57788 on port 1883.
+1790574965: Client mqtt-explorer-861bbe2e [172.18.0.1:57772] disconnected: session taken over.
+1790574965: New client connected from 172.18.0.1:57788 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574966: New connection from 172.18.0.1:57800 on port 1883.
+1790574966: Client mqtt-explorer-861bbe2e [172.18.0.1:57788] disconnected: session taken over.
+1790574966: New client connected from 172.18.0.1:57800 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574967: New connection from 172.18.0.1:57806 on port 1883.
+1790574967: Client mqtt-explorer-861bbe2e [172.18.0.1:57800] disconnected: session taken over.
+1790574967: New client connected from 172.18.0.1:57806 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574969: New connection from 172.18.0.1:57812 on port 1883.
+1790574969: Client mqtt-explorer-861bbe2e [172.18.0.1:57806] disconnected: session taken over.
+1790574969: New client connected from 172.18.0.1:57812 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574970: New connection from 172.18.0.1:47648 on port 1883.
+1790574970: Client mqtt-explorer-861bbe2e [172.18.0.1:57812] disconnected: session taken over.
+1790574970: New client connected from 172.18.0.1:47648 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574971: New connection from 172.18.0.1:47662 on port 1883.
+1790574971: Client mqtt-explorer-861bbe2e [172.18.0.1:47648] disconnected: session taken over.
+1790574971: New client connected from 172.18.0.1:47662 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574972: New connection from 172.18.0.1:47670 on port 1883.
+1790574972: Client mqtt-explorer-861bbe2e [172.18.0.1:47662] disconnected: session taken over.
+1790574972: New client connected from 172.18.0.1:47670 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574973: New connection from 172.18.0.1:47676 on port 1883.
+1790574973: Client mqtt-explorer-861bbe2e [172.18.0.1:47670] disconnected: session taken over.
+1790574973: New client connected from 172.18.0.1:47676 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574974: New connection from 172.18.0.1:47692 on port 1883.
+1790574974: Client mqtt-explorer-861bbe2e [172.18.0.1:47676] disconnected: session taken over.
+1790574974: New client connected from 172.18.0.1:47692 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574975: New connection from 172.18.0.1:47694 on port 1883.
+1790574975: Client mqtt-explorer-861bbe2e [172.18.0.1:47692] disconnected: session taken over.
+1790574975: New client connected from 172.18.0.1:47694 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574976: New connection from 172.18.0.1:47704 on port 1883.
+1790574976: Client mqtt-explorer-861bbe2e [172.18.0.1:47694] disconnected: session taken over.
+1790574976: New client connected from 172.18.0.1:47704 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574977: New connection from 172.18.0.1:47712 on port 1883.
+1790574977: Client mqtt-explorer-861bbe2e [172.18.0.1:47704] disconnected: session taken over.
+1790574977: New client connected from 172.18.0.1:47712 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574978: New connection from 172.18.0.1:47724 on port 1883.
+1790574978: Client mqtt-explorer-861bbe2e [172.18.0.1:47712] disconnected: session taken over.
+1790574978: New client connected from 172.18.0.1:47724 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574979: New connection from 172.18.0.1:47728 on port 1883.
+1790574979: Client mqtt-explorer-861bbe2e [172.18.0.1:47724] disconnected: session taken over.
+1790574979: New client connected from 172.18.0.1:47728 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574980: New connection from 172.18.0.1:35018 on port 1883.
+1790574980: Client mqtt-explorer-861bbe2e [172.18.0.1:47728] disconnected: session taken over.
+1790574980: New client connected from 172.18.0.1:35018 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574981: New connection from 172.18.0.1:35034 on port 1883.
+1790574981: Client mqtt-explorer-861bbe2e [172.18.0.1:35018] disconnected: session taken over.
+1790574981: New client connected from 172.18.0.1:35034 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574982: New connection from 172.18.0.1:35042 on port 1883.
+1790574982: Client mqtt-explorer-861bbe2e [172.18.0.1:35034] disconnected: session taken over.
+1790574982: New client connected from 172.18.0.1:35042 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574983: New connection from 172.18.0.1:35046 on port 1883.
+1790574983: Client mqtt-explorer-861bbe2e [172.18.0.1:35042] disconnected: session taken over.
+1790574983: New client connected from 172.18.0.1:35046 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574984: New connection from 172.18.0.1:35052 on port 1883.
+1790574984: Client mqtt-explorer-861bbe2e [172.18.0.1:35046] disconnected: session taken over.
+1790574984: New client connected from 172.18.0.1:35052 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574985: New connection from 172.18.0.1:35060 on port 1883.
+1790574985: Client mqtt-explorer-861bbe2e [172.18.0.1:35052] disconnected: session taken over.
+1790574985: New client connected from 172.18.0.1:35060 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574986: New connection from 172.18.0.1:35064 on port 1883.
+1790574986: Client mqtt-explorer-861bbe2e [172.18.0.1:35060] disconnected: session taken over.
+1790574986: New client connected from 172.18.0.1:35064 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574987: New connection from 172.18.0.1:35068 on port 1883.
+1790574987: Client mqtt-explorer-861bbe2e [172.18.0.1:35064] disconnected: session taken over.
+1790574987: New client connected from 172.18.0.1:35068 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574988: New connection from 172.18.0.1:35078 on port 1883.
+1790574988: Client mqtt-explorer-861bbe2e [172.18.0.1:35068] disconnected: session taken over.
+1790574988: New client connected from 172.18.0.1:35078 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574989: New connection from 172.18.0.1:35086 on port 1883.
+1790574989: Client mqtt-explorer-861bbe2e [172.18.0.1:35078] disconnected: session taken over.
+1790574989: New client connected from 172.18.0.1:35086 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574990: New connection from 172.18.0.1:48564 on port 1883.
+1790574990: Client mqtt-explorer-861bbe2e [172.18.0.1:35086] disconnected: session taken over.
+1790574990: New client connected from 172.18.0.1:48564 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574991: New connection from 172.18.0.1:48580 on port 1883.
+1790574991: Client mqtt-explorer-861bbe2e [172.18.0.1:48564] disconnected: session taken over.
+1790574991: New client connected from 172.18.0.1:48580 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574992: New connection from 172.18.0.1:48592 on port 1883.
+1790574992: Client mqtt-explorer-861bbe2e [172.18.0.1:48580] disconnected: session taken over.
+1790574992: New client connected from 172.18.0.1:48592 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574993: New connection from 172.18.0.1:48600 on port 1883.
+1790574993: Client mqtt-explorer-861bbe2e [172.18.0.1:48592] disconnected: session taken over.
+1790574993: New client connected from 172.18.0.1:48600 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574994: New connection from 172.18.0.1:48606 on port 1883.
+1790574994: Client mqtt-explorer-861bbe2e [172.18.0.1:48600] disconnected: session taken over.
+1790574994: New client connected from 172.18.0.1:48606 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574995: New connection from 172.18.0.1:48612 on port 1883.
+1790574995: Client mqtt-explorer-861bbe2e [172.18.0.1:48606] disconnected: session taken over.
+1790574995: New client connected from 172.18.0.1:48612 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574996: New connection from 172.18.0.1:48614 on port 1883.
+1790574996: Client mqtt-explorer-861bbe2e [172.18.0.1:48612] disconnected: session taken over.
+1790574996: New client connected from 172.18.0.1:48614 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574997: New connection from 172.18.0.1:48618 on port 1883.
+1790574997: Client mqtt-explorer-861bbe2e [172.18.0.1:48614] disconnected: session taken over.
+1790574997: New client connected from 172.18.0.1:48618 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574998: New connection from 172.18.0.1:48630 on port 1883.
+1790574998: Client mqtt-explorer-861bbe2e [172.18.0.1:48618] disconnected: session taken over.
+1790574998: New client connected from 172.18.0.1:48630 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790574999: New connection from 172.18.0.1:48646 on port 1883.
+1790574999: Client mqtt-explorer-861bbe2e [172.18.0.1:48630] disconnected: session taken over.
+1790574999: New client connected from 172.18.0.1:48646 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575000: New connection from 172.18.0.1:52348 on port 1883.
+1790575000: Client mqtt-explorer-861bbe2e [172.18.0.1:48646] disconnected: session taken over.
+1790575000: New client connected from 172.18.0.1:52348 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575001: New connection from 172.18.0.1:52362 on port 1883.
+1790575001: Client mqtt-explorer-861bbe2e [172.18.0.1:52348] disconnected: session taken over.
+1790575001: New client connected from 172.18.0.1:52362 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575002: New connection from 172.18.0.1:52378 on port 1883.
+1790575002: Client mqtt-explorer-861bbe2e [172.18.0.1:52362] disconnected: session taken over.
+1790575002: New client connected from 172.18.0.1:52378 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575003: New connection from 172.18.0.1:52394 on port 1883.
+1790575003: Client mqtt-explorer-861bbe2e [172.18.0.1:52378] disconnected: session taken over.
+1790575003: New client connected from 172.18.0.1:52394 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575004: New connection from 172.18.0.1:52410 on port 1883.
+1790575004: Client mqtt-explorer-861bbe2e [172.18.0.1:52394] disconnected: session taken over.
+1790575004: New client connected from 172.18.0.1:52410 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575005: New connection from 172.18.0.1:52426 on port 1883.
+1790575005: Client mqtt-explorer-861bbe2e [172.18.0.1:52410] disconnected: session taken over.
+1790575005: New client connected from 172.18.0.1:52426 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575006: New connection from 172.18.0.1:52440 on port 1883.
+1790575006: Client mqtt-explorer-861bbe2e [172.18.0.1:52426] disconnected: session taken over.
+1790575006: New client connected from 172.18.0.1:52440 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575007: New connection from 172.18.0.1:52456 on port 1883.
+1790575007: Client mqtt-explorer-861bbe2e [172.18.0.1:52440] disconnected: session taken over.
+1790575007: New client connected from 172.18.0.1:52456 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575008: New connection from 172.18.0.1:52468 on port 1883.
+1790575008: Client mqtt-explorer-861bbe2e [172.18.0.1:52456] disconnected: session taken over.
+1790575008: New client connected from 172.18.0.1:52468 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575009: New connection from 172.18.0.1:52482 on port 1883.
+1790575009: Client mqtt-explorer-861bbe2e [172.18.0.1:52468] disconnected: session taken over.
+1790575009: New client connected from 172.18.0.1:52482 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575010: New connection from 172.18.0.1:38704 on port 1883.
+1790575010: Client mqtt-explorer-861bbe2e [172.18.0.1:52482] disconnected: session taken over.
+1790575010: New client connected from 172.18.0.1:38704 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575011: New connection from 172.18.0.1:38718 on port 1883.
+1790575011: Client mqtt-explorer-861bbe2e [172.18.0.1:38704] disconnected: session taken over.
+1790575011: New client connected from 172.18.0.1:38718 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575012: New connection from 172.18.0.1:38732 on port 1883.
+1790575012: Client mqtt-explorer-861bbe2e [172.18.0.1:38718] disconnected: session taken over.
+1790575012: New client connected from 172.18.0.1:38732 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575013: New connection from 172.18.0.1:38746 on port 1883.
+1790575013: Client mqtt-explorer-861bbe2e [172.18.0.1:38732] disconnected: session taken over.
+1790575013: New client connected from 172.18.0.1:38746 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575014: New connection from 172.18.0.1:38748 on port 1883.
+1790575014: Client mqtt-explorer-861bbe2e [172.18.0.1:38746] disconnected: session taken over.
+1790575014: New client connected from 172.18.0.1:38748 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575015: New connection from 172.18.0.1:38754 on port 1883.
+1790575015: Client mqtt-explorer-861bbe2e [172.18.0.1:38748] disconnected: session taken over.
+1790575015: New client connected from 172.18.0.1:38754 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575016: New connection from 172.18.0.1:38768 on port 1883.
+1790575016: Client mqtt-explorer-861bbe2e [172.18.0.1:38754] disconnected: session taken over.
+1790575016: New client connected from 172.18.0.1:38768 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575017: New connection from 172.18.0.1:38770 on port 1883.
+1790575017: Client mqtt-explorer-861bbe2e [172.18.0.1:38768] disconnected: session taken over.
+1790575017: New client connected from 172.18.0.1:38770 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575018: New connection from 172.18.0.1:38776 on port 1883.
+1790575018: Client mqtt-explorer-861bbe2e [172.18.0.1:38770] disconnected: session taken over.
+1790575018: New client connected from 172.18.0.1:38776 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575019: New connection from 172.18.0.1:55656 on port 1883.
+1790575019: Client mqtt-explorer-861bbe2e [172.18.0.1:38776] disconnected: session taken over.
+1790575019: New client connected from 172.18.0.1:55656 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575020: New connection from 172.18.0.1:55660 on port 1883.
+1790575020: Client mqtt-explorer-861bbe2e [172.18.0.1:55656] disconnected: session taken over.
+1790575020: New client connected from 172.18.0.1:55660 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575021: New connection from 172.18.0.1:55664 on port 1883.
+1790575021: Client mqtt-explorer-861bbe2e [172.18.0.1:55660] disconnected: session taken over.
+1790575021: New client connected from 172.18.0.1:55664 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575022: New connection from 172.18.0.1:55678 on port 1883.
+1790575022: Client mqtt-explorer-861bbe2e [172.18.0.1:55664] disconnected: session taken over.
+1790575022: New client connected from 172.18.0.1:55678 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575023: New connection from 172.18.0.1:55688 on port 1883.
+1790575023: Client mqtt-explorer-861bbe2e [172.18.0.1:55678] disconnected: session taken over.
+1790575023: New client connected from 172.18.0.1:55688 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575024: New connection from 172.18.0.1:55690 on port 1883.
+1790575024: Client mqtt-explorer-861bbe2e [172.18.0.1:55688] disconnected: session taken over.
+1790575024: New client connected from 172.18.0.1:55690 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575026: New connection from 172.18.0.1:55704 on port 1883.
+1790575026: Client mqtt-explorer-861bbe2e [172.18.0.1:55690] disconnected: session taken over.
+1790575026: New client connected from 172.18.0.1:55704 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575027: New connection from 172.18.0.1:55720 on port 1883.
+1790575027: Client mqtt-explorer-861bbe2e [172.18.0.1:55704] disconnected: session taken over.
+1790575027: New client connected from 172.18.0.1:55720 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575028: New connection from 172.18.0.1:55732 on port 1883.
+1790575028: Client mqtt-explorer-861bbe2e [172.18.0.1:55720] disconnected: session taken over.
+1790575028: New client connected from 172.18.0.1:55732 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575029: New connection from 172.18.0.1:55744 on port 1883.
+1790575029: Client mqtt-explorer-861bbe2e [172.18.0.1:55732] disconnected: session taken over.
+1790575029: New client connected from 172.18.0.1:55744 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575030: New connection from 172.18.0.1:58420 on port 1883.
+1790575030: Client mqtt-explorer-861bbe2e [172.18.0.1:55744] disconnected: session taken over.
+1790575030: New client connected from 172.18.0.1:58420 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575031: New connection from 172.18.0.1:58434 on port 1883.
+1790575031: Client mqtt-explorer-861bbe2e [172.18.0.1:58420] disconnected: session taken over.
+1790575031: New client connected from 172.18.0.1:58434 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575032: New connection from 172.18.0.1:58436 on port 1883.
+1790575032: Client mqtt-explorer-861bbe2e [172.18.0.1:58434] disconnected: session taken over.
+1790575032: New client connected from 172.18.0.1:58436 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575033: New connection from 172.18.0.1:58450 on port 1883.
+1790575033: Client mqtt-explorer-861bbe2e [172.18.0.1:58436] disconnected: session taken over.
+1790575033: New client connected from 172.18.0.1:58450 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575034: New connection from 172.18.0.1:58460 on port 1883.
+1790575034: Client mqtt-explorer-861bbe2e [172.18.0.1:58450] disconnected: session taken over.
+1790575034: New client connected from 172.18.0.1:58460 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575035: New connection from 172.18.0.1:58474 on port 1883.
+1790575035: Client mqtt-explorer-861bbe2e [172.18.0.1:58460] disconnected: session taken over.
+1790575035: New client connected from 172.18.0.1:58474 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575036: New connection from 172.18.0.1:58490 on port 1883.
+1790575036: Client mqtt-explorer-861bbe2e [172.18.0.1:58474] disconnected: session taken over.
+1790575036: New client connected from 172.18.0.1:58490 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575037: New connection from 172.18.0.1:58502 on port 1883.
+1790575037: Client mqtt-explorer-861bbe2e [172.18.0.1:58490] disconnected: session taken over.
+1790575037: New client connected from 172.18.0.1:58502 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575038: New connection from 172.18.0.1:58510 on port 1883.
+1790575038: Client mqtt-explorer-861bbe2e [172.18.0.1:58502] disconnected: session taken over.
+1790575038: New client connected from 172.18.0.1:58510 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575039: New connection from 172.18.0.1:58512 on port 1883.
+1790575039: Client mqtt-explorer-861bbe2e [172.18.0.1:58510] disconnected: session taken over.
+1790575039: New client connected from 172.18.0.1:58512 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575040: New connection from 172.18.0.1:40130 on port 1883.
+1790575040: Client mqtt-explorer-861bbe2e [172.18.0.1:58512] disconnected: session taken over.
+1790575040: New client connected from 172.18.0.1:40130 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575041: New connection from 172.18.0.1:40142 on port 1883.
+1790575041: Client mqtt-explorer-861bbe2e [172.18.0.1:40130] disconnected: session taken over.
+1790575041: New client connected from 172.18.0.1:40142 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575042: New connection from 172.18.0.1:40152 on port 1883.
+1790575042: Client mqtt-explorer-861bbe2e [172.18.0.1:40142] disconnected: session taken over.
+1790575042: New client connected from 172.18.0.1:40152 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575043: New connection from 172.18.0.1:40168 on port 1883.
+1790575043: Client mqtt-explorer-861bbe2e [172.18.0.1:40152] disconnected: session taken over.
+1790575043: New client connected from 172.18.0.1:40168 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575044: New connection from 172.18.0.1:40174 on port 1883.
+1790575044: Client mqtt-explorer-861bbe2e [172.18.0.1:40168] disconnected: session taken over.
+1790575044: New client connected from 172.18.0.1:40174 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575045: New connection from 172.18.0.1:40180 on port 1883.
+1790575045: Client mqtt-explorer-861bbe2e [172.18.0.1:40174] disconnected: session taken over.
+1790575045: New client connected from 172.18.0.1:40180 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575046: New connection from 172.18.0.1:40190 on port 1883.
+1790575046: Client mqtt-explorer-861bbe2e [172.18.0.1:40180] disconnected: session taken over.
+1790575046: New client connected from 172.18.0.1:40190 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575047: New connection from 172.18.0.1:40192 on port 1883.
+1790575047: Client mqtt-explorer-861bbe2e [172.18.0.1:40190] disconnected: session taken over.
+1790575047: New client connected from 172.18.0.1:40192 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575048: New connection from 172.18.0.1:40204 on port 1883.
+1790575048: Client mqtt-explorer-861bbe2e [172.18.0.1:40192] disconnected: session taken over.
+1790575048: New client connected from 172.18.0.1:40204 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575049: New connection from 172.18.0.1:40208 on port 1883.
+1790575049: Client mqtt-explorer-861bbe2e [172.18.0.1:40204] disconnected: session taken over.
+1790575049: New client connected from 172.18.0.1:40208 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575050: New connection from 172.18.0.1:58304 on port 1883.
+1790575050: Client mqtt-explorer-861bbe2e [172.18.0.1:40208] disconnected: session taken over.
+1790575050: New client connected from 172.18.0.1:58304 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575051: New connection from 172.18.0.1:58314 on port 1883.
+1790575051: Client mqtt-explorer-861bbe2e [172.18.0.1:58304] disconnected: session taken over.
+1790575051: New client connected from 172.18.0.1:58314 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575052: New connection from 172.18.0.1:58328 on port 1883.
+1790575052: Client mqtt-explorer-861bbe2e [172.18.0.1:58314] disconnected: session taken over.
+1790575052: New client connected from 172.18.0.1:58328 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575053: New connection from 172.18.0.1:58334 on port 1883.
+1790575053: Client mqtt-explorer-861bbe2e [172.18.0.1:58328] disconnected: session taken over.
+1790575053: New client connected from 172.18.0.1:58334 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575054: New connection from 172.18.0.1:58338 on port 1883.
+1790575054: Client mqtt-explorer-861bbe2e [172.18.0.1:58334] disconnected: session taken over.
+1790575054: New client connected from 172.18.0.1:58338 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575055: New connection from 172.18.0.1:58346 on port 1883.
+1790575055: Client mqtt-explorer-861bbe2e [172.18.0.1:58338] disconnected: session taken over.
+1790575055: New client connected from 172.18.0.1:58346 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575056: New connection from 172.18.0.1:58354 on port 1883.
+1790575056: Client mqtt-explorer-861bbe2e [172.18.0.1:58346] disconnected: session taken over.
+1790575056: New client connected from 172.18.0.1:58354 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575057: New connection from 172.18.0.1:58364 on port 1883.
+1790575057: Client mqtt-explorer-861bbe2e [172.18.0.1:58354] disconnected: session taken over.
+1790575057: New client connected from 172.18.0.1:58364 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575058: New connection from 172.18.0.1:58376 on port 1883.
+1790575058: Client mqtt-explorer-861bbe2e [172.18.0.1:58364] disconnected: session taken over.
+1790575058: New client connected from 172.18.0.1:58376 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575059: New connection from 172.18.0.1:58386 on port 1883.
+1790575059: Client mqtt-explorer-861bbe2e [172.18.0.1:58376] disconnected: session taken over.
+1790575059: New client connected from 172.18.0.1:58386 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575060: New connection from 172.18.0.1:58422 on port 1883.
+1790575060: Client mqtt-explorer-861bbe2e [172.18.0.1:58386] disconnected: session taken over.
+1790575060: New client connected from 172.18.0.1:58422 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575061: mosquitto version 2.1.2 terminating
+1790575061: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790575081: mosquitto version 2.1.2 starting
+1790575081: Config loaded from /mosquitto/config/mosquitto.conf.
+1790575081: Bridge support available.
+1790575081: Persistence support available.
+1790575081: TLS support available.
+1790575081: TLS-PSK support available.
+1790575081: Websockets support available.
+1790575081: Opening ipv4 listen socket on port 1883.
+1790575081: Opening ipv6 listen socket on port 1883.
+1790575081: mosquitto version 2.1.2 running
+1790575081: New connection from 172.18.0.1:42138 on port 1883.
+1790575081: New client connected from 172.18.0.1:42138 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575082: New connection from 172.18.0.1:42140 on port 1883.
+1790575082: Client mqtt-explorer-861bbe2e [172.18.0.1:42138] disconnected: session taken over.
+1790575082: New client connected from 172.18.0.1:42140 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575082: New connection from 172.18.0.1:42156 on port 1883.
+1790575082: New client connected from 172.18.0.1:42156 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790575083: New connection from 172.18.0.1:42160 on port 1883.
+1790575083: Client mqtt-explorer-861bbe2e [172.18.0.1:42140] disconnected: session taken over.
+1790575083: New client connected from 172.18.0.1:42160 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575084: New connection from 172.18.0.1:42168 on port 1883.
+1790575084: Client mqtt-explorer-861bbe2e [172.18.0.1:42160] disconnected: session taken over.
+1790575084: New client connected from 172.18.0.1:42168 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575085: New connection from 172.18.0.1:42174 on port 1883.
+1790575085: Client mqtt-explorer-861bbe2e [172.18.0.1:42168] disconnected: session taken over.
+1790575085: New client connected from 172.18.0.1:42174 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575086: New connection from 172.18.0.1:42186 on port 1883.
+1790575086: Client mqtt-explorer-861bbe2e [172.18.0.1:42174] disconnected: session taken over.
+1790575086: New client connected from 172.18.0.1:42186 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575087: New connection from 172.18.0.1:42200 on port 1883.
+1790575087: Client mqtt-explorer-861bbe2e [172.18.0.1:42186] disconnected: session taken over.
+1790575087: New client connected from 172.18.0.1:42200 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575088: New connection from 172.18.0.1:42204 on port 1883.
+1790575088: Client mqtt-explorer-861bbe2e [172.18.0.1:42200] disconnected: session taken over.
+1790575088: New client connected from 172.18.0.1:42204 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575089: New connection from 172.18.0.1:42206 on port 1883.
+1790575089: Client mqtt-explorer-861bbe2e [172.18.0.1:42204] disconnected: session taken over.
+1790575089: New client connected from 172.18.0.1:42206 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575090: New connection from 172.18.0.1:55184 on port 1883.
+1790575090: Client mqtt-explorer-861bbe2e [172.18.0.1:42206] disconnected: session taken over.
+1790575090: New client connected from 172.18.0.1:55184 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575091: New connection from 172.18.0.1:55188 on port 1883.
+1790575091: Client mqtt-explorer-861bbe2e [172.18.0.1:55184] disconnected: session taken over.
+1790575091: New client connected from 172.18.0.1:55188 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575092: New connection from 172.18.0.1:55204 on port 1883.
+1790575092: Client mqtt-explorer-861bbe2e [172.18.0.1:55188] disconnected: session taken over.
+1790575092: New client connected from 172.18.0.1:55204 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575093: New connection from 172.18.0.1:55218 on port 1883.
+1790575093: Client mqtt-explorer-861bbe2e [172.18.0.1:55204] disconnected: session taken over.
+1790575093: New client connected from 172.18.0.1:55218 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575094: New connection from 172.18.0.1:55220 on port 1883.
+1790575094: Client mqtt-explorer-861bbe2e [172.18.0.1:55218] disconnected: session taken over.
+1790575094: New client connected from 172.18.0.1:55220 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575095: New connection from 172.18.0.1:55232 on port 1883.
+1790575095: Client mqtt-explorer-861bbe2e [172.18.0.1:55220] disconnected: session taken over.
+1790575095: New client connected from 172.18.0.1:55232 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575096: New connection from 172.18.0.1:55236 on port 1883.
+1790575096: Client mqtt-explorer-861bbe2e [172.18.0.1:55232] disconnected: session taken over.
+1790575096: New client connected from 172.18.0.1:55236 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575097: New connection from 172.18.0.1:55252 on port 1883.
+1790575097: Client mqtt-explorer-861bbe2e [172.18.0.1:55236] disconnected: session taken over.
+1790575097: New client connected from 172.18.0.1:55252 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575098: New connection from 172.18.0.1:55268 on port 1883.
+1790575098: Client mqtt-explorer-861bbe2e [172.18.0.1:55252] disconnected: session taken over.
+1790575098: New client connected from 172.18.0.1:55268 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575099: New connection from 172.18.0.1:55274 on port 1883.
+1790575099: Client mqtt-explorer-861bbe2e [172.18.0.1:55268] disconnected: session taken over.
+1790575099: New client connected from 172.18.0.1:55274 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575100: New connection from 172.18.0.1:51680 on port 1883.
+1790575100: Client mqtt-explorer-861bbe2e [172.18.0.1:55274] disconnected: session taken over.
+1790575100: New client connected from 172.18.0.1:51680 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575101: New connection from 172.18.0.1:51692 on port 1883.
+1790575101: Client mqtt-explorer-861bbe2e [172.18.0.1:51680] disconnected: session taken over.
+1790575101: New client connected from 172.18.0.1:51692 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575102: New connection from 172.18.0.1:51708 on port 1883.
+1790575102: Client mqtt-explorer-861bbe2e [172.18.0.1:51692] disconnected: session taken over.
+1790575102: New client connected from 172.18.0.1:51708 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575103: New connection from 172.18.0.1:51712 on port 1883.
+1790575103: Client mqtt-explorer-861bbe2e [172.18.0.1:51708] disconnected: session taken over.
+1790575103: New client connected from 172.18.0.1:51712 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575104: New connection from 172.18.0.1:51726 on port 1883.
+1790575104: Client mqtt-explorer-861bbe2e [172.18.0.1:51712] disconnected: session taken over.
+1790575104: New client connected from 172.18.0.1:51726 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575306: mosquitto version 2.1.2 terminating
+1790575306: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790575319: mosquitto version 2.1.2 starting
+1790575319: Config loaded from /mosquitto/config/mosquitto.conf.
+1790575319: Bridge support available.
+1790575319: Persistence support available.
+1790575319: TLS support available.
+1790575319: TLS-PSK support available.
+1790575319: Websockets support available.
+1790575319: Opening ipv4 listen socket on port 1883.
+1790575319: Opening ipv6 listen socket on port 1883.
+1790575319: mosquitto version 2.1.2 running
+1790575320: New connection from 172.18.0.1:39888 on port 1883.
+1790575320: New client connected from 172.18.0.1:39888 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575322: New connection from 172.18.0.1:39902 on port 1883.
+1790575322: New client connected from 172.18.0.1:39902 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790575927: mosquitto version 2.1.2 terminating
+1790575927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790575935: mosquitto version 2.1.2 starting
+1790575935: Config loaded from /mosquitto/config/mosquitto.conf.
+1790575935: Bridge support available.
+1790575935: Persistence support available.
+1790575935: TLS support available.
+1790575935: TLS-PSK support available.
+1790575935: Websockets support available.
+1790575935: Opening ipv4 listen socket on port 1883.
+1790575935: Opening ipv6 listen socket on port 1883.
+1790575935: mosquitto version 2.1.2 running
+1790575935: New connection from 172.18.0.1:55566 on port 1883.
+1790575935: New client connected from 172.18.0.1:55566 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790575937: New connection from 172.18.0.1:55578 on port 1883.
+1790575937: New client connected from 172.18.0.1:55578 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790576055: New connection from 172.18.0.4:54706 on port 1883.
+1790576055: New client connected from 172.18.0.4:54706 as telegraf (p4, c1, k60).
+1790576414: Client telegraf [172.18.0.4:54706] disconnected.
+1790576414: mosquitto version 2.1.2 terminating
+1790576414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790576434: mosquitto version 2.1.2 starting
+1790576434: Config loaded from /mosquitto/config/mosquitto.conf.
+1790576434: Bridge support available.
+1790576434: Persistence support available.
+1790576434: TLS support available.
+1790576434: TLS-PSK support available.
+1790576434: Websockets support available.
+1790576434: Opening ipv4 listen socket on port 1883.
+1790576434: Opening ipv6 listen socket on port 1883.
+1790576434: mosquitto version 2.1.2 running
+1790576435: New connection from 172.18.0.1:37198 on port 1883.
+1790576435: New client connected from 172.18.0.1:37198 as mqtt-explorer-861bbe2e (p4, c1, k60).
+1790576436: New connection from 172.18.0.1:37200 on port 1883.
+1790576436: New client connected from 172.18.0.1:37200 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790576436: New connection from 172.18.0.4:36196 on port 1883.
+1790576436: New client connected from 172.18.0.4:36196 as telegraf (p4, c1, k60).
+1790577061: Client telegraf [172.18.0.4:36196] disconnected.
+1790577062: New connection from 172.18.0.4:36130 on port 1883.
+1790577062: New client connected from 172.18.0.4:36130 as telegraf (p4, c1, k60).
+1790577406: Client telegraf [172.18.0.4:36130] disconnected.
+1790577407: New connection from 172.18.0.4:41282 on port 1883.
+1790577407: New client connected from 172.18.0.4:41282 as telegraf (p4, c1, k60).
+1790578234: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790578705: Client Gateway-Heltec-fcf61b44 [172.18.0.1:37200] disconnected: exceeded timeout.
+1790578706: New connection from 172.18.0.1:56878 on port 1883.
+1790578706: New client connected from 172.18.0.1:56878 as Gateway-Heltec-fcf61b44 (p4, c1, k15).
+1790580035: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790580117: Client telegraf [172.18.0.4:41282] disconnected.
+1790580117: mosquitto version 2.1.2 terminating
+1790580117: Saving in-memory database to /mosquitto/data//mosquitto.db.

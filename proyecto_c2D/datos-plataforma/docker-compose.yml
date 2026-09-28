@@ -1,0 +1,48 @@
+services:
+  mosquitto:
+    container_name: mosquitto
+    image: eclipse-mosquitto
+    volumes:
+      - "./mosquitto/config:/mosquitto/config"
+      - "./mosquitto/data/:/mosquitto/data"
+      - "./mosquitto/log:/mosquitto/log"
+    
+    ports:
+      - "1883:1883"
+    networks:
+      - red-iot
+
+  influxdb:
+    container_name: influxdb
+    image: influxdb:2
+    ports:
+      - "8086:8086"
+    volumes:
+       - "./data:/var/lib/influxdb2"
+      
+    environment:
+      - INFLUXDB_DB=db0
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=admin12345678!
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=123456789
+      - DOCKER_INFLUXDB_INIT_ORG=simcofi
+      - DOCKER_INFLUXDB_INIT_BUCKET=bucket0
+    networks:
+      - red-iot
+
+  telegraf:
+    container_name: telegraf
+    image: telegraf
+    depends_on:
+      - influxdb
+      - mosquitto
+    volumes:
+      - "./telegraf:/etc/telegraf"
+
+    networks:
+      - red-iot
+
+networks: 
+  red-iot:
+    external: true
+
